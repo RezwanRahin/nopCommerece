@@ -405,7 +405,7 @@ public partial class HomeModelFactory : IHomeModelFactory
         }
         catch (Exception ex)
         {
-            await _logger.ErrorAsync("No access to the news. Website www.nopcommerce.com is not available.", ex);
+            await _logger.ErrorAsync("No access to the news. Website www.ahalllc.com is not available.", ex);
         }
 
         return model;

@@ -62,7 +62,7 @@ public partial class OfficialFeedManager
         }
         catch (Exception ex)
         {
-            await _logger.ErrorAsync("No access to the list of plugins. Website www.nopcommerce.com is not available.", ex);
+            await _logger.ErrorAsync("No access to the list of plugins. Website www.ahalllc.com is not available.", ex);
         }
 
         //get list of categories from the XML
@@ -91,7 +91,7 @@ public partial class OfficialFeedManager
         }
         catch (Exception ex)
         {
-            await _logger.ErrorAsync("No access to the list of plugins. Website www.nopcommerce.com is not available.", ex);
+            await _logger.ErrorAsync("No access to the list of plugins. Website www.ahalllc.com is not available.", ex);
         }
 
         //get list of versions from the XML
@@ -127,7 +127,7 @@ public partial class OfficialFeedManager
         }
         catch (Exception ex)
         {
-            await _logger.ErrorAsync("No access to the list of plugins. Website www.nopcommerce.com is not available.", ex);
+            await _logger.ErrorAsync("No access to the list of plugins. Website www.ahalllc.com is not available.", ex);
         }
 
         //get list of extensions from the XML

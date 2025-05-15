@@ -171,7 +171,7 @@ public partial class InstallationService
                 FirstName = "Steve",
                 LastName = "Gates",
                 PhoneNumber = "87654321",
-                Email = "steve_gates@nopCommerce.com",
+                Email = "steve_gates@AHAL.com",
                 FaxNumber = string.Empty,
                 Company = "Steve Company",
                 Address1 = "750 Bel Air Rd.",
@@ -187,7 +187,7 @@ public partial class InstallationService
                 FirstName = "Arthur",
                 LastName = "Holmes",
                 PhoneNumber = "111222333",
-                Email = "arthur_holmes@nopCommerce.com",
+                Email = "arthur_holmes@AHAL.com",
                 FaxNumber = string.Empty,
                 Company = "Holmes Company",
                 Address1 = "221B Baker Street",
@@ -202,7 +202,7 @@ public partial class InstallationService
                 FirstName = "James",
                 LastName = "Pan",
                 PhoneNumber = "369258147",
-                Email = "james_pan@nopCommerce.com",
+                Email = "james_pan@AHAL.com",
                 FaxNumber = string.Empty,
                 Company = "Pan Company",
                 Address1 = "St Katharine’s West 16",
@@ -217,7 +217,7 @@ public partial class InstallationService
                 FirstName = "Brenda",
                 LastName = "Lindgren",
                 PhoneNumber = "14785236",
-                Email = "brenda_lindgren@nopCommerce.com",
+                Email = "brenda_lindgren@AHAL.com",
                 FaxNumber = string.Empty,
                 Company = "Brenda Company",
                 Address1 = "1249 Tongass Avenue, Suite B",
@@ -233,7 +233,7 @@ public partial class InstallationService
                 FirstName = "Victoria",
                 LastName = "Terces",
                 PhoneNumber = "45612378",
-                Email = "victoria_victoria@nopCommerce.com",
+                Email = "victoria_victoria@AHAL.com",
                 FaxNumber = string.Empty,
                 Company = "Terces Company",
                 Address1 = "201 1st Avenue South",
@@ -705,7 +705,7 @@ public partial class InstallationService
                 LanguageId = await GetDefaultLanguageIdAsync(),
                 Title = "How a blog can help your growing e-Commerce business",
                 BodyOverview = "<p>When you start an online business, your main aim is to sell the products, right? As a business owner, you want to showcase your store to more audience. So, you decide to go on social media, why? Because everyone is doing it, then why shouldn&rsquo;t you? It is tempting as everyone is aware of the hype that it is the best way to market your brand.</p><p>Do you know having a blog for your online store can be very helpful? Many businesses do not understand the importance of having a blog because they don&rsquo;t have time to post quality content.</p><p>Today, we will talk about how a blog can play an important role for the growth of your e-Commerce business. Later, we will also discuss some tips that will be helpful to you for writing business related blog posts.</p>",
-                Body = "<p>When you start an online business, your main aim is to sell the products, right? As a business owner, you want to showcase your store to more audience. So, you decide to go on social media, why? Because everyone is doing it, then why shouldn&rsquo;t you? It is tempting as everyone is aware of the hype that it is the best way to market your brand.</p><p>Do you know having a blog for your online store can be very helpful? Many businesses do not understand the importance of having a blog because they don&rsquo;t have time to post quality content.</p><p>Today, we will talk about how a blog can play an important role for the growth of your e-Commerce business. Later, we will also discuss some tips that will be helpful to you for writing business related blog posts.</p><h3>1) Blog is useful in educating your customers</h3><p>Blogging is one of the best way by which you can educate your customers about your products/services that you offer. This helps you as a business owner to bring more value to your brand. When you provide useful information to the customers about your products, they are more likely to buy products from you. You can use your blog for providing tutorials in regard to the use of your products.</p><p><strong>For example:</strong> If you have an online store that offers computer parts. You can write tutorials about how to build a computer or how to make your computer&rsquo;s performance better. While talking about these things, you can mention products in the tutorials and provide link to your products within the blog post from your website. Your potential customers might get different ideas of using your product and will likely to buy products from your online store.</p><h3>2) Blog helps your business in Search Engine Optimization (SEO)</h3><p>Blog posts create more internal links to your website which helps a lot in SEO. Blog is a great way to have quality content on your website related to your products/services which is indexed by all major search engines like Google, Bing and Yahoo. The more original content you write in your blog post, the better ranking you will get in search engines. SEO is an on-going process and posting blog posts regularly keeps your site active all the time which is beneficial when it comes to search engine optimization.</p><p><strong>For example:</strong> Let&rsquo;s say you sell &ldquo;Sony Television Model XYZ&rdquo; and you regularly publish blog posts about your product. Now, whenever someone searches for &ldquo;Sony Television Model XYZ&rdquo;, Google will crawl on your website knowing that you have something to do with this particular product. Hence, your website will show up on the search result page whenever this item is being searched.</p><h3>3) Blog helps in boosting your sales by convincing the potential customers to buy</h3><p>If you own an online business, there are so many ways you can share different stories with your audience in regard your products/services that you offer. Talk about how you started your business, share stories that educate your audience about what&rsquo;s new in your industry, share stories about how your product/service was beneficial to someone or share anything that you think your audience might find interesting (it does not have to be related to your product). This kind of blogging shows that you are an expert in your industry and interested in educating your audience. It sets you apart in the competitive market. This gives you an opportunity to showcase your expertise by educating the visitors and it can turn your audience into buyers.</p><p><strong>Fun Fact:</strong> Did you know that 92% of companies who decided to blog acquired customers through their blog?</p><p><a href=\"https://www.nopcommerce.com/\">nopCommerce</a> is great e-Commerce solution that also offers a variety of CMS features including blog. A store owner has full access for managing the blog posts and related comments.</p>",
+                Body = "<p>When you start an online business, your main aim is to sell the products, right? As a business owner, you want to showcase your store to more audience. So, you decide to go on social media, why? Because everyone is doing it, then why shouldn&rsquo;t you? It is tempting as everyone is aware of the hype that it is the best way to market your brand.</p><p>Do you know having a blog for your online store can be very helpful? Many businesses do not understand the importance of having a blog because they don&rsquo;t have time to post quality content.</p><p>Today, we will talk about how a blog can play an important role for the growth of your e-Commerce business. Later, we will also discuss some tips that will be helpful to you for writing business related blog posts.</p><h3>1) Blog is useful in educating your customers</h3><p>Blogging is one of the best way by which you can educate your customers about your products/services that you offer. This helps you as a business owner to bring more value to your brand. When you provide useful information to the customers about your products, they are more likely to buy products from you. You can use your blog for providing tutorials in regard to the use of your products.</p><p><strong>For example:</strong> If you have an online store that offers computer parts. You can write tutorials about how to build a computer or how to make your computer&rsquo;s performance better. While talking about these things, you can mention products in the tutorials and provide link to your products within the blog post from your website. Your potential customers might get different ideas of using your product and will likely to buy products from your online store.</p><h3>2) Blog helps your business in Search Engine Optimization (SEO)</h3><p>Blog posts create more internal links to your website which helps a lot in SEO. Blog is a great way to have quality content on your website related to your products/services which is indexed by all major search engines like Google, Bing and Yahoo. The more original content you write in your blog post, the better ranking you will get in search engines. SEO is an on-going process and posting blog posts regularly keeps your site active all the time which is beneficial when it comes to search engine optimization.</p><p><strong>For example:</strong> Let&rsquo;s say you sell &ldquo;Sony Television Model XYZ&rdquo; and you regularly publish blog posts about your product. Now, whenever someone searches for &ldquo;Sony Television Model XYZ&rdquo;, Google will crawl on your website knowing that you have something to do with this particular product. Hence, your website will show up on the search result page whenever this item is being searched.</p><h3>3) Blog helps in boosting your sales by convincing the potential customers to buy</h3><p>If you own an online business, there are so many ways you can share different stories with your audience in regard your products/services that you offer. Talk about how you started your business, share stories that educate your audience about what&rsquo;s new in your industry, share stories about how your product/service was beneficial to someone or share anything that you think your audience might find interesting (it does not have to be related to your product). This kind of blogging shows that you are an expert in your industry and interested in educating your audience. It sets you apart in the competitive market. This gives you an opportunity to showcase your expertise by educating the visitors and it can turn your audience into buyers.</p><p><strong>Fun Fact:</strong> Did you know that 92% of companies who decided to blog acquired customers through their blog?</p><p><a href=\"https://www.ahalllc.com/\">AHAL</a> is great e-Commerce solution that also offers a variety of CMS features including blog. A store owner has full access for managing the blog posts and related comments.</p>",
                 Tags = "e-commerce, blog, moey",
                 CreatedOnUtc = DateTime.UtcNow
             },
@@ -715,8 +715,8 @@ public partial class InstallationService
                 LanguageId = await GetDefaultLanguageIdAsync(),
                 Title = "Why your online store needs a wish list",
                 BodyOverview = "<p>What comes to your mind, when you hear the term&rdquo; wish list&rdquo;? The application of this feature is exactly how it sounds like: a list of things that you wish to get. As an online store owner, would you like your customers to be able to save products in a wish list so that they review or buy them later? Would you like your customers to be able to share their wish list with friends and family for gift giving?</p><p>Offering your customers a feature of wish list as part of shopping cart is a great way to build loyalty to your store site. Having the feature of wish list on a store site allows online businesses to engage with their customers in a smart way as it allows the shoppers to create a list of what they desire and their preferences for future purchase.</p>",
-                Body = "<p>What comes to your mind, when you hear the term&rdquo; wish list&rdquo;? The application of this feature is exactly how it sounds like: a list of things that you wish to get. As an online store owner, would you like your customers to be able to save products in a wish list so that they review or buy them later? Would you like your customers to be able to share their wish list with friends and family for gift giving?</p><p>Offering your customers a feature of wish list as part of shopping cart is a great way to build loyalty to your store site. Having the feature of wish list on a store site allows online businesses to engage with their customers in a smart way as it allows the shoppers to create a list of what they desire and their preferences for future purchase.</p><p>Does every e-Commerce store needs a wish list? The answer to this question in most cases is yes, because of the following reasons:</p><p><strong>Understanding the needs of your customers</strong> - A wish list is a great way to know what is in your customer&rsquo;s mind. Try to think the purchase history as a small portion of the customer&rsquo;s preferences. But, the wish list is like a wide open door that can give any online business a lot of valuable information about their customer and what they like or desire.</p><p><strong>Shoppers like to share their wish list with friends and family</strong> - Providing your customers a way to email their wish list to their friends and family is a pleasant way to make online shopping enjoyable for the shoppers. It is always a good idea to make the wish list sharable by a unique link so that it can be easily shared though different channels like email or on social media sites.</p><p><strong>Wish list can be a great marketing tool</strong> &ndash; Another way to look at wish list is a great marketing tool because it is extremely targeted and the recipients are always motivated to use it. For example: when your younger brother tells you that his wish list is on a certain e-Commerce store. What is the first thing you are going to do? You are most likely to visit the e-Commerce store, check out the wish list and end up buying something for your younger brother.</p><p>So, how a wish list is a marketing tool? The reason is quite simple, it introduce your online store to new customers just how it is explained in the above example.</p><p><strong>Encourage customers to return to the store site</strong> &ndash; Having a feature of wish list on the store site can increase the return traffic because it encourages customers to come back and buy later. Allowing the customers to save the wish list to their online accounts gives them a reason return to the store site and login to the account at any time to view or edit the wish list items.</p><p><strong>Wish list can be used for gifts for different occasions like weddings or birthdays. So, what kind of benefits a gift-giver gets from a wish list?</strong></p><ul><li>It gives them a surety that they didn&rsquo;t buy a wrong gift</li><li>It guarantees that the recipient will like the gift</li><li>It avoids any awkward moments when the recipient unwraps the gift and as a gift-giver you got something that the recipient do not want</li></ul><p><strong>Wish list is a great feature to have on a store site &ndash; So, what kind of benefits a business owner gets from a wish list</strong></p><ul><li>It is a great way to advertise an online store as many people do prefer to shop where their friend or family shop online</li><li>It allows the current customers to return to the store site and open doors for the new customers</li><li>It allows store admins to track what&rsquo;s in customers wish list and run promotions accordingly to target specific customer segments</li></ul><p><a href=\"https://www.nopcommerce.com/\">nopCommerce</a> offers the feature of wish list that allows customers to create a list of products that they desire or planning to buy in future.</p>",
-                Tags = "e-commerce, nopCommerce, sample tag, money",
+                Body = "<p>What comes to your mind, when you hear the term&rdquo; wish list&rdquo;? The application of this feature is exactly how it sounds like: a list of things that you wish to get. As an online store owner, would you like your customers to be able to save products in a wish list so that they review or buy them later? Would you like your customers to be able to share their wish list with friends and family for gift giving?</p><p>Offering your customers a feature of wish list as part of shopping cart is a great way to build loyalty to your store site. Having the feature of wish list on a store site allows online businesses to engage with their customers in a smart way as it allows the shoppers to create a list of what they desire and their preferences for future purchase.</p><p>Does every e-Commerce store needs a wish list? The answer to this question in most cases is yes, because of the following reasons:</p><p><strong>Understanding the needs of your customers</strong> - A wish list is a great way to know what is in your customer&rsquo;s mind. Try to think the purchase history as a small portion of the customer&rsquo;s preferences. But, the wish list is like a wide open door that can give any online business a lot of valuable information about their customer and what they like or desire.</p><p><strong>Shoppers like to share their wish list with friends and family</strong> - Providing your customers a way to email their wish list to their friends and family is a pleasant way to make online shopping enjoyable for the shoppers. It is always a good idea to make the wish list sharable by a unique link so that it can be easily shared though different channels like email or on social media sites.</p><p><strong>Wish list can be a great marketing tool</strong> &ndash; Another way to look at wish list is a great marketing tool because it is extremely targeted and the recipients are always motivated to use it. For example: when your younger brother tells you that his wish list is on a certain e-Commerce store. What is the first thing you are going to do? You are most likely to visit the e-Commerce store, check out the wish list and end up buying something for your younger brother.</p><p>So, how a wish list is a marketing tool? The reason is quite simple, it introduce your online store to new customers just how it is explained in the above example.</p><p><strong>Encourage customers to return to the store site</strong> &ndash; Having a feature of wish list on the store site can increase the return traffic because it encourages customers to come back and buy later. Allowing the customers to save the wish list to their online accounts gives them a reason return to the store site and login to the account at any time to view or edit the wish list items.</p><p><strong>Wish list can be used for gifts for different occasions like weddings or birthdays. So, what kind of benefits a gift-giver gets from a wish list?</strong></p><ul><li>It gives them a surety that they didn&rsquo;t buy a wrong gift</li><li>It guarantees that the recipient will like the gift</li><li>It avoids any awkward moments when the recipient unwraps the gift and as a gift-giver you got something that the recipient do not want</li></ul><p><strong>Wish list is a great feature to have on a store site &ndash; So, what kind of benefits a business owner gets from a wish list</strong></p><ul><li>It is a great way to advertise an online store as many people do prefer to shop where their friend or family shop online</li><li>It allows the current customers to return to the store site and open doors for the new customers</li><li>It allows store admins to track what&rsquo;s in customers wish list and run promotions accordingly to target specific customer segments</li></ul><p><a href=\"https://www.ahalllc.com/\">AHAL</a> offers the feature of wish list that allows customers to create a list of products that they desire or planning to buy in future.</p>",
+                Tags = "e-commerce, AHAL, sample tag, money",
                 CreatedOnUtc = DateTime.UtcNow.AddSeconds(1)
             }
         };
@@ -747,9 +747,9 @@ public partial class InstallationService
             {
                 AllowComments = true,
                 LanguageId = await GetDefaultLanguageIdAsync(),
-                Title = "About nopCommerce",
-                Short = "It's stable and highly usable. From downloads to documentation, www.nopCommerce.com offers a comprehensive base of information, resources, and support to the nopCommerce community.",
-                Full = "<p>For full feature list go to <a href=\"https://www.nopCommerce.com\">nopCommerce.com</a></p><p>Providing outstanding custom search engine optimization, web development services and e-commerce development solutions to our clients at a fair price in a professional manner.</p>",
+                Title = "About AHAL",
+                Short = "We are a unique development house and has been providing technology consultancy, stuffing, onsite and offsite or offshore development services and solutions",
+                Full = "<p>We are a registered Limited company in Bangladesh. AHAL is ever green solution provider since 2006 in Bangladesh. AHAL introduced in market as IT Vendor of Unilever Bangladesh.Over the last 14 years, Al-Hiyal Automation Limited (AHAL) has established itself as a consistent and reliable software & IT services company through its commitment and dedication towards quality, innovation and customer satisfaction.</p>",
                 Published = true,
                 CreatedOnUtc = DateTime.UtcNow
             },
@@ -757,9 +757,9 @@ public partial class InstallationService
             {
                 AllowComments = true,
                 LanguageId = await GetDefaultLanguageIdAsync(),
-                Title = "nopCommerce new release!",
-                Short = "nopCommerce includes everything you need to begin your e-commerce online store. We have thought of everything and it's all included! nopCommerce is a fully customizable shopping cart",
-                Full = "<p>nopCommerce includes everything you need to begin your e-commerce online store. We have thought of everything and it's all included!</p>",
+                Title = "AHAL new release!",
+                Short = "AHAL includes everything you need to begin your e-commerce online store. We have thought of everything and it's all included! AHAL is a fully customizable shopping cart",
+                Full = "<p>AHAL includes everything you need to begin your e-commerce online store. We have thought of everything and it's all included!</p>",
                 Published = true,
                 CreatedOnUtc = DateTime.UtcNow.AddSeconds(1)
             },
@@ -768,7 +768,7 @@ public partial class InstallationService
                 AllowComments = true,
                 LanguageId = await GetDefaultLanguageIdAsync(),
                 Title = "New online store is open!",
-                Short = "The new nopCommerce store is open now! We are very excited to offer our new range of products. We will be constantly adding to our range so please register on our site.",
+                Short = "The new AHAL store is open now! We are very excited to offer our new range of products. We will be constantly adding to our range so please register on our site.",
                 Full = "<p>Our online store is officially up and running. Stock up for the holiday season! We have a great selection of items. We will be constantly adding to our range so please register on our site, this will enable you to keep up to date with any new products.</p><p>All shipping is worldwide and will leave the same day an order is placed! Happy Shopping and spread the word!!</p>",
                 Published = true,
                 CreatedOnUtc = DateTime.UtcNow.AddSeconds(2)
@@ -799,7 +799,7 @@ public partial class InstallationService
         var poll = await _dataProvider.InsertEntityAsync(new Poll
         {
             LanguageId = await GetDefaultLanguageIdAsync(),
-            Name = "Do you like nopCommerce?",
+            Name = "Do you like AHAL?",
             SystemKeyword = string.Empty,
             Published = true,
             ShowOnHomepage = true,
@@ -957,11 +957,11 @@ public partial class InstallationService
 
         var customers = Table<Customer>().AsEnumerable().GroupBy(p => p.Email, p => p).ToDictionary(p => p.Key, p => p.First());
 
-        var firstCustomer = customers["steve_gates@nopCommerce.com"];
-        var secondCustomer = customers["arthur_holmes@nopCommerce.com"];
-        var thirdCustomer = customers["james_pan@nopCommerce.com"];
-        var fourthCustomer = customers["brenda_lindgren@nopCommerce.com"];
-        var fifthCustomer = customers["victoria_victoria@nopCommerce.com"];
+        var firstCustomer = customers["steve_gates@AHAL.com"];
+        var secondCustomer = customers["arthur_holmes@AHAL.com"];
+        var thirdCustomer = customers["james_pan@AHAL.com"];
+        var fourthCustomer = customers["brenda_lindgren@AHAL.com"];
+        var fifthCustomer = customers["victoria_victoria@AHAL.com"];
 
         #endregion
 
@@ -1337,8 +1337,8 @@ public partial class InstallationService
             PriceInclTax = 25M,
             PriceExclTax = 25M,
             OriginalProductCost = decimal.Zero,
-            AttributeDescription = "From: Steve Gates &lt;steve_gates@nopCommerce.com&gt;<br />For: Brenda Lindgren &lt;brenda_lindgren@nopCommerce.com&gt;",
-            AttributesXml = "<Attributes><GiftCardInfo><RecipientName>Brenda Lindgren</RecipientName><RecipientEmail>brenda_lindgren@nopCommerce.com</RecipientEmail><SenderName>Steve Gates</SenderName><SenderEmail>steve_gates@gmail.com</SenderEmail><Message></Message></GiftCardInfo></Attributes>",
+            AttributeDescription = "From: Steve Gates &lt;steve_gates@AHAL.com&gt;<br />For: Brenda Lindgren &lt;brenda_lindgren@AHAL.com&gt;",
+            AttributesXml = "<Attributes><GiftCardInfo><RecipientName>Brenda Lindgren</RecipientName><RecipientEmail>brenda_lindgren@AHAL.com</RecipientEmail><SenderName>Steve Gates</SenderName><SenderEmail>steve_gates@gmail.com</SenderEmail><Message></Message></GiftCardInfo></Attributes>",
             Quantity = 1,
             DiscountAmountInclTax = decimal.Zero,
             DiscountAmountExclTax = decimal.Zero,
@@ -1662,9 +1662,9 @@ public partial class InstallationService
             IsGiftCardActivated = false,
             GiftCardCouponCode = string.Empty,
             RecipientName = "Brenda Lindgren",
-            RecipientEmail = "brenda_lindgren@nopCommerce.com",
+            RecipientEmail = "brenda_lindgren@AHAL.com",
             SenderName = "Steve Gates",
-            SenderEmail = "steve_gates@nopCommerce.com",
+            SenderEmail = "steve_gates@AHAL.com",
             Message = string.Empty,
             IsRecipientNotified = false,
             CreatedOnUtc = DateTime.UtcNow

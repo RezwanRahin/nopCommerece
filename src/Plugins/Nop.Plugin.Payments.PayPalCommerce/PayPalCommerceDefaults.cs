@@ -15,7 +15,7 @@ public class PayPalCommerceDefaults
     /// <summary>
     /// Gets the user agent used to request third-party services
     /// </summary>
-    public static string UserAgent => $"nopCommerce-{NopVersion.FULL_VERSION}";
+    public static string UserAgent => $"AHAL-{NopVersion.FULL_VERSION}";
 
     /// <summary>
     /// Gets the session key to get process payment request
@@ -199,12 +199,12 @@ public class PayPalCommerceDefaults
         /// <summary>
         /// Gets the base URL of onboarding services
         /// </summary>
-        public static string ServiceUrl => "https://www.nopcommerce.com/";
+        public static string ServiceUrl => "https://www.ahalllc.com/";
 
         /// <summary>
         /// Gets the logo URL to display in the merchant's onboarding flow
         /// </summary>
-        public static string LogoUrl => "https://www.nopcommerce.com/themes/officialsite/content/images/logo.png";
+        public static string LogoUrl => "https://www.ahalllc.com/themes/officialsite/content/images/logo.png";
     }
 
     #endregion

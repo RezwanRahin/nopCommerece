@@ -16,17 +16,17 @@ public static class BrevoDefaults
     /// <summary>
     /// Gets a plugin partner name
     /// </summary>
-    public static string PartnerName => "NOPCOMMERCE";
+    public static string PartnerName => "AHAL";
 
     /// <summary>
     /// Gets a user agent used to request Brevo services
     /// </summary>
-    public static string UserAgent => $"nopCommerce-{NopVersion.CURRENT_VERSION}";
+    public static string UserAgent => $"AHAL-{NopVersion.CURRENT_VERSION}";
 
     /// <summary>
     /// Gets a user agent used to request Brevo services
     /// </summary>
-    public static string UserAgentAccountAPI => "sendinblue_plugins/nopcommerce";
+    public static string UserAgentAccountAPI => "sendinblue_plugins/AHAL";
 
     /// <summary>
     /// Gets the plugin version (only major versions)
