@@ -1345,11 +1345,11 @@ public partial class InstallationService
             DefaultStoreTheme = "DefaultClean",
             AllowCustomerToSelectTheme = false,
             DisplayEuCookieLawWarning = isEurope,
-            FacebookLink = "https://www.facebook.com/alhiyalautomationltd",
-            TwitterLink = "https://twitter.com/",
-            YoutubeLink = "https://www.youtube.com/",
-            InstagramLink = "https://www.instagram.com/",
-            HidePoweredByNopCommerce = true
+            FacebookLink = "https://www.facebook.com/nopCommerce",
+            TwitterLink = "https://twitter.com/nopCommerce",
+            YoutubeLink = "https://www.youtube.com/user/nopCommerce",
+            InstagramLink = "https://www.instagram.com/nopcommerce_official",
+            HidePoweredByNopCommerce = false
         });
 
         await settingService.SaveSettingAsync(new ExternalAuthenticationSettings
@@ -2042,7 +2042,7 @@ public partial class InstallationService
                     Published = true,
                     Title = "Welcome to our store",
                     Body =
-                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p>",
+                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p><p>If you have questions, see the <a href=\"http://docs.nopcommerce.com/\">Documentation</a>, or post in the <a href=\"https://www.nopcommerce.com/boards/\">Forums</a> at <a href=\"https://www.nopcommerce.com\">nopCommerce.com</a></p>",
                     TopicTemplateId = defaultTopicTemplate.Id
                 },
                 new() {

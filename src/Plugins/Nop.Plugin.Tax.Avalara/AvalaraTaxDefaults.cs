@@ -16,12 +16,12 @@ public class AvalaraTaxDefaults
     /// <summary>
     /// Gets the user agent used to request third-party services
     /// </summary>
-    public static string UserAgent => $"AHAL-{NopVersion.CURRENT_VERSION}";
+    public static string UserAgent => $"nopCommerce-{NopVersion.CURRENT_VERSION}";
 
     /// <summary>
     /// Gets the Avalara tax provider connector name
     /// </summary>
-    public static string ApplicationName => "AHAL-AvalaraTaxRateProvider|a0o33000004BoPM";
+    public static string ApplicationName => "nopCommerce-AvalaraTaxRateProvider|a0o33000004BoPM";
 
     /// <summary>
     /// Gets the Avalara tax provider version (used a nopCommerce version here)

@@ -40,9 +40,9 @@ public partial class NopHttpClient
         IWorkContext workContext)
     {
         //configure client
-        client.BaseAddress = new Uri("https://www.ahalllc.com/");
+        client.BaseAddress = new Uri("https://www.nopcommerce.com/");
         client.Timeout = TimeSpan.FromSeconds(5);
-        client.DefaultRequestHeaders.Add(HeaderNames.UserAgent, $"AHAL-{NopVersion.CURRENT_VERSION}");
+        client.DefaultRequestHeaders.Add(HeaderNames.UserAgent, $"nopCommerce-{NopVersion.CURRENT_VERSION}");
 
         _adminAreaSettings = adminAreaSettings;
         _emailAccountSettings = emailAccountSettings;

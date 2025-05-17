@@ -958,7 +958,7 @@ public partial class AdminMenu : IAdminMenu
                         {
                             SystemName = "Training",
                             Title = await _localizationService.GetResourceAsync("Admin.Help.Training"),
-                            Url = "https://www.ahalllc.com/training?utm_source=admin-panel&utm_medium=menu&utm_campaign=course&utm_content=help",
+                            Url = "https://www.nopcommerce.com/training?utm_source=admin-panel&utm_medium=menu&utm_campaign=course&utm_content=help",
                             IconClass = "far fa-dot-circle",
                             OpenUrlInNewTab = true
                         },
@@ -966,7 +966,7 @@ public partial class AdminMenu : IAdminMenu
                         {
                             SystemName = "Documentation",
                             Title = await _localizationService.GetResourceAsync("Admin.Help.Documentation"),
-                            Url = "https://docs.ahalllc.com?utm_source=admin-panel&utm_medium=menu&utm_campaign=documentation&utm_content=help",
+                            Url = "https://docs.nopcommerce.com?utm_source=admin-panel&utm_medium=menu&utm_campaign=documentation&utm_content=help",
                             IconClass = "far fa-dot-circle",
                             OpenUrlInNewTab = true
                         },
@@ -974,7 +974,7 @@ public partial class AdminMenu : IAdminMenu
                         {
                             SystemName = "Community forums",
                             Title = await _localizationService.GetResourceAsync("Admin.Help.Forums"),
-                            Url = "https://www.ahalllc.com/boards?utm_source=admin-panel&utm_medium=menu&utm_campaign=forum&utm_content=help",
+                            Url = "https://www.nopcommerce.com/boards?utm_source=admin-panel&utm_medium=menu&utm_campaign=forum&utm_content=help",
                             IconClass = "far fa-dot-circle",
                             OpenUrlInNewTab = true
                         },
@@ -982,7 +982,7 @@ public partial class AdminMenu : IAdminMenu
                         {
                             SystemName = "Premium support services",
                             Title = await _localizationService.GetResourceAsync("Admin.Help.SupportServices"),
-                            Url = "https://www.ahalllc.com/ahalllc-premium-support-services?utm_source=admin-panel&utm_medium=menu&utm_campaign=premium_support&utm_content=help",
+                            Url = "https://www.nopcommerce.com/nopcommerce-premium-support-services?utm_source=admin-panel&utm_medium=menu&utm_campaign=premium_support&utm_content=help",
                             IconClass = "far fa-dot-circle",
                             OpenUrlInNewTab = true
                         },
@@ -990,7 +990,7 @@ public partial class AdminMenu : IAdminMenu
                         {
                             SystemName = "Solution partners",
                             Title = await _localizationService.GetResourceAsync("Admin.Help.SolutionPartners"),
-                            Url = "https://www.ahalllc.com/solution-partners?utm_source=admin-panel&utm_medium=menu&utm_campaign=solution_partners&utm_content=help",
+                            Url = "https://www.nopcommerce.com/solution-partners?utm_source=admin-panel&utm_medium=menu&utm_campaign=solution_partners&utm_content=help",
                             IconClass = "far fa-dot-circle",
                             OpenUrlInNewTab = true
                         }
