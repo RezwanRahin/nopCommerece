@@ -54,11 +54,12 @@ public partial class InstallationService
         var stores = new List<Store>
         {
             new() {
-                Name = "Your store name",
-                DefaultTitle = "Your store",
+                // Name = "Your store name",
+                Name = "AHAL",
+                DefaultTitle = "AHAL",
                 DefaultMetaKeywords = string.Empty,
                 DefaultMetaDescription = string.Empty,
-                HomepageTitle = "Home page title",
+                HomepageTitle = "Home",
                 HomepageDescription = "Home page description",
                 Url = storeUrl,
                 SslEnabled = _webHelper.IsCurrentConnectionSecured(),
@@ -1345,11 +1346,11 @@ public partial class InstallationService
             DefaultStoreTheme = "DefaultClean",
             AllowCustomerToSelectTheme = false,
             DisplayEuCookieLawWarning = isEurope,
-            FacebookLink = "https://www.facebook.com/nopCommerce",
-            TwitterLink = "https://twitter.com/nopCommerce",
-            YoutubeLink = "https://www.youtube.com/user/nopCommerce",
-            InstagramLink = "https://www.instagram.com/nopcommerce_official",
-            HidePoweredByNopCommerce = false
+            FacebookLink = "https://www.facebook.com/alhiyalautomationltd",
+            TwitterLink = "https://twitter.com/",
+            YoutubeLink = "https://www.youtube.com/",
+            InstagramLink = "https://www.instagram.com/",
+            HidePoweredByNopCommerce = true
         });
 
         await settingService.SaveSettingAsync(new ExternalAuthenticationSettings
@@ -2040,9 +2041,9 @@ public partial class InstallationService
                     IsPasswordProtected = false,
                     DisplayOrder = 1,
                     Published = true,
-                    Title = "Welcome to our store",
+                    Title = "Welcome to AHAL",
                     Body =
-                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p><p>If you have questions, see the <a href=\"http://docs.nopcommerce.com/\">Documentation</a>, or post in the <a href=\"https://www.nopcommerce.com/boards/\">Forums</a> at <a href=\"https://www.nopcommerce.com\">nopCommerce.com</a></p>",
+                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p><p>If you have questions, see the <a href=\"http://docs.ahalllc.com/\">Documentation</a>, or post in the <a href=\"https://www.ahalllc.com/boards/\">Forums</a> at <a href=\"https://www.ahalllc.com\">ahalllc.com</a></p>",
                     TopicTemplateId = defaultTopicTemplate.Id
                 },
                 new() {

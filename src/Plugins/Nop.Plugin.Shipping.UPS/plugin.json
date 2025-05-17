@@ -4,7 +4,7 @@
   "SystemName": "Shipping.UPS",
   "Version": "4.80.5",
   "SupportedVersions": [ "4.80" ],
-  "Author": "nopCommerce team",
+  "Author": "AHAL team",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.Shipping.UPS.dll",
   "Description": "This plugin offers shipping rates by UPS"

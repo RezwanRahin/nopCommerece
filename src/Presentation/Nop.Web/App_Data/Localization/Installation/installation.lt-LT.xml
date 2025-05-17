@@ -67,10 +67,10 @@
     <Value>Pasirinkite duomenų teikėją</Value>
   </LocaleResource>
   <LocaleResource Name="Documentation1">
-    <Value>Jei jums reikia informacijos, kaip naudotis nopCommerce, apsilankykite</Value>
+    <Value>Jei jums reikia informacijos, kaip naudotis AHAL, apsilankykite</Value>
   </LocaleResource>
   <LocaleResource Name="Documentation2">
-    <Value>the documentation section on nopCommerce.com</Value>
+    <Value>the documentation section on ahalllc.com</Value>
   </LocaleResource>
   <LocaleResource Name="Example">
     <Value>Example</Value>

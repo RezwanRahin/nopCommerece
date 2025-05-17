@@ -67,10 +67,10 @@
     <Value>Select data provider</Value>
   </LocaleResource>
   <LocaleResource Name="Documentation1">
-    <Value>If you need information on how to use nopCommerce, visit</Value>
+    <Value>If you need information on how to use AHAL, visit</Value>
   </LocaleResource>
   <LocaleResource Name="Documentation2">
-    <Value>the documentation section on nopCommerce.com</Value>
+    <Value>the documentation section on ahalllc.com</Value>
   </LocaleResource>
   <LocaleResource Name="Example">
     <Value>Example</Value>

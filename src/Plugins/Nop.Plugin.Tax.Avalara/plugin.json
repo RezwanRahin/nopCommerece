@@ -4,7 +4,7 @@
   "SystemName": "Tax.Avalara",
   "Version": "4.80.7",
   "SupportedVersions": [ "4.80" ],
-  "Author": "nopCommerce team",
+  "Author": "AHAL team",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.Tax.Avalara.dll",
   "Description": "This plugin allows using AvaTax service. Avalara AvaTax is a cloud-based sales and use tax calculation system."

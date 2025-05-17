@@ -4,7 +4,7 @@
   "SystemName": "Misc.NopMobileApp",
   "Version": "4.80.6",
   "SupportedVersions": [ "4.80" ],
-  "Author": "nopCommerce team",
+  "Author": "AHAL team",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.Misc.NopMobileApp.dll",
   "Description": "nopCommerce mobile application helper"
