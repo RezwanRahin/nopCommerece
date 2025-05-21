@@ -2043,7 +2043,7 @@ public partial class InstallationService
                     Published = true,
                     Title = "Welcome to AHAL",
                     Body =
-                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p><p>If you have questions, see the <a href=\"http://docs.ahalllc.com/\">Documentation</a>, or post in the <a href=\"https://www.ahalllc.com/boards/\">Forums</a> at <a href=\"https://www.ahalllc.com\">ahalllc.com</a></p>",
+                        "<p>Online shopping is the process consumers go through to purchase products or services over the Internet. You can edit this in the admin site.</p><p>If you have questions, see the <a href='#'>Documentation</a>, or post in the <a href='#'>Forums</a> at <a href='#'>ahalllc.com</a></p>",
                     TopicTemplateId = defaultTopicTemplate.Id
                 },
                 new() {
