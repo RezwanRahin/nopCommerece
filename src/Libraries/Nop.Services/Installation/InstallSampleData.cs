@@ -799,7 +799,7 @@ public partial class InstallationService
         var poll = await _dataProvider.InsertEntityAsync(new Poll
         {
             LanguageId = await GetDefaultLanguageIdAsync(),
-            Name = "Do you like AHAL?",
+            Name = "Do you like AHAL Store?",
             SystemKeyword = string.Empty,
             Published = true,
             ShowOnHomepage = true,
